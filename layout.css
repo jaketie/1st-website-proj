@@ -15,9 +15,9 @@ p {
     width: 800px;
     background-color: #fff3e3;
     border: 1px solid black;
-    font-family:
-    font: 12,
-    padding: 5px;
+    font-family: ;
+    font: 12, ;
+    padding: 5px 20px 5px 20px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -29,4 +29,22 @@ p {
     font-style: bold;
     justify-content: space-evenly;
     text-align: center;
+}
+
+form {
+    display: block;
+    width: min-content;
+    margin-top: 5px;
+    background-color: #fff3e3;
+    padding: 5px;
+}
+
+.linkBox {
+    display: block;
+    width: 250px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff3e3;
+    padding: 5px;
 }
